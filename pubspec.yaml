@@ -1,0 +1,7 @@
+name: tito_matcher
+environment:
+  sdk: '>=2.14.0 <3.0.0'
+dependencies:
+  csv: ^5.0.1
+  http: ^0.13.4
+
